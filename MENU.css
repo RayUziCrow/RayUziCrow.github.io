@@ -59,26 +59,6 @@ header h3 {
   text-shadow: 2px 2px 3px #fff7e6;
 }
 
-.fotorama {
-  width: 60%;
-  height: 37%;
-  margin-right: auto;
-  margin-left: auto;
-  background-color: black;
-  border-top-color: black;
-  border-right-color: black;
-  border-bottom-color: black;
-  border-left-color: black;
-  border-top-width: thin;
-  border-right-width: thin;
-  border-bottom-width: thin;
-  border-left-width: thin;
-  border-top-style: solid;
-  border-right-style: solid;
-  border-bottom-style: solid;
-  border-left-style: solid;
-}
-
 footer {
   padding-top: 5%;
   padding-right: 10%;
@@ -120,14 +100,14 @@ footer {
   padding-right: 4%;
   padding-left: 2%;
   margin-left: 1%;
-  height: 1260%;
+  height: 900%;
   width: 4em;
 }
 
 .LeftSide {
   background-color: #e49101;
   float: left;
-  height: 1260%;
+  height: 900%;
   width: 7em;
   margin-right: 1%;
 }
