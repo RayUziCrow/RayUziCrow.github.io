@@ -59,7 +59,7 @@ header h3 {
   text-shadow: 2px 2px 3px #fff7e6;
 }
 
-.Slide {
+.fotorama {
   width: 60%;
   height: 37%;
   margin-right: auto;
@@ -95,6 +95,7 @@ footer {
 }
 
 .Central {
+  background-color: #ffffff;
   display: block;
   margin-top: 0%;
   margin-right: auto;
